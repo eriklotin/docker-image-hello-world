@@ -1,6 +1,6 @@
 # Docker image: eriklotin/hello-world
 
-Docker image for testing. 
+Lightweight docker image for testing (only 1.2MB). 
 
 # Usage example
 
